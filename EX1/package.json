@@ -1,0 +1,18 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^1.0.3",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "nodemailer": "^2.3.0",
+    "xoauth2": "^1.1.0"
+  }
+}
